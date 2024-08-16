@@ -7,7 +7,7 @@
 
 ### 🛠️ Profesional de Sistemas en Transición hacia la Programación
 
-Con más de 20 años de experiencia en sistemas y mantenimiento de infraestructuras tecnológicas, he trabajado en la gestión y soporte de los ordenadores y servidores de mi empresa, así como en la administración de nuestro ERP (SAP con base de datos SQL y ABAS). Además, he supervisado el mantenimiento de la página web de la empresa y he brindado soporte informático a otras compañías.
+Con más de 20 años de experiencia en sistemas y mantenimiento de infraestructuras tecnológicas, he trabajado en la gestión y soporte de los ordenadores y servidores de mi empresa, así como en la administración de nuestro ERP (SAP con base de datos SQL). Además, he supervisado el mantenimiento de la página web de la empresa y he brindado soporte informático a otras compañías.
 
 ### 🎯 Cambiando el Rumbo
 Actualmente, estoy en un proceso de transición profesional, cambiando mi enfoque desde los sistemas hacia la programación. Estoy cursando el ciclo de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, con el objetivo de fortalecer mis habilidades en desarrollo de software y abrir nuevas oportunidades en el mundo de la programación.
