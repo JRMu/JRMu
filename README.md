@@ -5,18 +5,18 @@
 
 ## 👋 ¡Hola! Soy Javier
 
-### 🛠️ Profesional de Sistemas en Transición hacia la Programación
+### 🛠️ Profesional de Sistemas Ampliando Horizontes hacia el Desarrollo de Software
 
-Con más de 20 años de experiencia en sistemas y mantenimiento de infraestructuras tecnológicas, he trabajado en la gestión y soporte de los ordenadores y servidores de mi empresa, así como en la administración de nuestro ERP (SAP con base de datos SQL). Además, he supervisado el mantenimiento de la página web de la empresa y he brindado soporte informático a otras compañías.
+Con más de 20 años de experiencia en la administración y soporte de sistemas informáticos, servidores, redes y mantenimiento de infraestructuras tecnológicas, he desarrollado una sólida trayectoria en el ámbito de los sistemas. He gestionado entornos con ERP (SAP sobre SQL), mantenido páginas web corporativas y prestado soporte a diferentes empresas, siempre con un enfoque práctico y resolutivo.
 
-### 🎯 Cambiando el Rumbo
-Actualmente, estoy en un proceso de transición profesional, cambiando mi enfoque desde los sistemas hacia la programación. Estoy cursando el ciclo de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, con el objetivo de fortalecer mis habilidades en desarrollo de software y abrir nuevas oportunidades en el mundo de la programación.
+### 🎯 Formación Continua
+Actualmente estoy cursando el ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM) como parte de mi compromiso con la mejora continua y la ampliación de conocimientos. Esta etapa formativa me permite complementar mi experiencia en sistemas con habilidades en programación y desarrollo de software, reforzando así mi perfil técnico integral.
 
 ### 🚀 ¿Qué encontrarás en mi GitHub?
-Aquí iré compartiendo los proyectos y ejercicios que desarrollo a medida que avanzo en mis estudios de programación, además de algunos scripts y herramientas que he creado a lo largo de mi carrera en sistemas.
+Aquí comparto algunos proyectos y ejercicios desarrollados en el marco de mis estudios, así como herramientas y scripts útiles que he creado a lo largo de mi carrera profesional. Es un espacio de aprendizaje y evolución constante.
 
 ### 📫 ¿Quieres conectar?
-No dudes en contactarme para hablar sobre tecnología, programación o colaboraciones.
+Estoy siempre abierto a compartir ideas, aprender cosas nuevas y colaborar en proyectos tecnológicos. ¡No dudes en escribirme
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jrmu&label=Profile%20views&color=0e75b6&style=flat" alt="jrmu" /> </p>
