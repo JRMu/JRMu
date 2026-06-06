@@ -9,9 +9,6 @@
 
 Con más de 20 años de experiencia en la administración y soporte de sistemas informáticos, servidores, redes y mantenimiento de infraestructuras tecnológicas, he desarrollado una sólida trayectoria en el ámbito de los sistemas. He gestionado entornos con ERP (SAP sobre SQL), mantenido páginas web corporativas y prestado soporte a diferentes empresas, siempre con un enfoque práctico y resolutivo.
 
-### 🎯 Formación Continua
-Actualmente estoy cursando el ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM) como parte de mi compromiso con la mejora continua y la ampliación de conocimientos. Esta etapa formativa me permite complementar mi experiencia en sistemas con habilidades en programación y desarrollo de software, reforzando así mi perfil técnico integral.
-
 ### 🚀 ¿Qué encontrarás en mi GitHub?
 Aquí comparto algunos proyectos y ejercicios desarrollados en el marco de mis estudios, así como herramientas y scripts útiles que he creado a lo largo de mi carrera profesional. Es un espacio de aprendizaje y evolución constante.
 
